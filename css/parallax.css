@@ -12,6 +12,7 @@
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    background-color: grey;
     height: 100vh;
 }
 .parallax_2{
