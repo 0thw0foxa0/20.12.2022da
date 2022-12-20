@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parallax_1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: url(https://abrakadabra.fun/uploads/posts/2022-01/1642609669_1-abrakadabra-fun-p-fon-dlya-prezentatsii-stroitelnoi-kompanii-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.parallax_2{
+    background: url(https://strexp.ru/wp-content/uploads/12-6-2048x1535.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+    /* sdfsd */
+    position: relative;
+    text-align: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 60px;
+}
+.underzagolovok{
+    color: white;
+}
+.parallax_3{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overimg-text1{
+    height: 100%;
+    width: 100hv;
+    font-size: 26px;
+}
+.overvid_text_small1{
+    color: white;
+    font-size: 26px;
+}
+.overvid_text_big1{
+ color: white;
+    font-size: 52px;
+}
+.content_1{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(59, 59, 60);
+}
+.content_2{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(59, 59, 60);
+
+}
